@@ -1,0 +1,16 @@
+{
+  "name": "finetuning-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "csv-jsonl.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "papaparse": "^5.4.1"
+  }
+}
